@@ -2,3 +2,4 @@
 为啥git没提升文件变化
 hot -fix test 加两遍
 修改后再次上传到GitHub
+远程库加了名字
